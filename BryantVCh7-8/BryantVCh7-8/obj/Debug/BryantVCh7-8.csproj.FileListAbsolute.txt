@@ -1,0 +1,6 @@
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVCh7-8\BryantVCh7-8\bin\Debug\BryantVCh7-8.exe.config
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVCh7-8\BryantVCh7-8\bin\Debug\BryantVCh7-8.exe
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVCh7-8\BryantVCh7-8\bin\Debug\BryantVCh7-8.pdb
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVCh7-8\BryantVCh7-8\obj\Debug\BryantVCh7-8.csprojResolveAssemblyReference.cache
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVCh7-8\BryantVCh7-8\obj\Debug\BryantVCh7-8.exe
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVCh7-8\BryantVCh7-8\obj\Debug\BryantVCh7-8.pdb
